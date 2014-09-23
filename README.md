@@ -1,11 +1,12 @@
 ROOTCORE_FAX
 ============
 Example Tutorial for ROOTCORE Dijet Analysis running on “atlasconnect”
-1. 
-2. login to “atlasconnect”
+
+login to “atlasconnect”
 ssh -Y username@login.atlas.ci-connect.net
 
 Introduction
+
 The following illustrates how to use the SmallNtupleMakerReader RootCore package written for the 2012 full dataset dijet mass resonances analysis.
 
 code: https://svnweb.cern.ch/trac/atlasphys/browser/Physics/Exotic/Analysis/Dijet/SmallNtupleMakerReader
